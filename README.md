@@ -1,4 +1,4 @@
 MR_FEDER
 ========
 
-Project for anlysing European FEDER Fonds
+Project to analyze European FEDER Fonds
